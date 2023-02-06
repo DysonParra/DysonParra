@@ -23,6 +23,7 @@ I'm from Colombia and i'm a programmer.
 
 ### Skills
 - C (source code, macros, Makefile)
+- C# (source code)
 - Java (1.8, gradle, maven, Spring, Eureka, Hibernate)
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql)
