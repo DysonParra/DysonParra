@@ -9,7 +9,7 @@ Hello, my name is Dyson Parra
 I'm from Colombia and i'm a programmer.  
 
 - 🔭 I’m looking for a job
-- 🌱 I’m currently learning english and C#
+- 🌱 I’m currently learning english and Sql server
 - 📍  I'm from Medellín, Antioquia (Colombia)  
 - 📫 How to reach me: dysontilano@gmail.com  
 <!-- 
