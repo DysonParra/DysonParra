@@ -55,7 +55,7 @@ I'm from Colombia and i'm a programmer.
     * Withouth value: an alphanumerirc string started with '--'.  
     Example:  --useDefault  --notUseIncognito  --generateLogFile  --preserveTempFiles  
 
-    For use the library you need to specify in source code a set of flags defined as required, other defined as optionals and other defined as default. More specified how to use in the projects.  
+    For use the library you need to specify in source code a set of flags defined as required, other defined as optionals and other defined as default. More specific how to use in the projects.  
     [c](https://github.com/DysonParra/flag-processor-c)  
     [c#](https://github.com/DysonParra/flag-processor-cs)  
     [java](https://github.com/DysonParra/flag-processor-java)  
