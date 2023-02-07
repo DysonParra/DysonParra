@@ -37,14 +37,14 @@ I'm from Colombia and i'm a programmer.
   
   - Examples of connection to a database and CRUD services using spring and hibernate.  
     Create database script (mysql) and postman tests file also included.  
-  [almacen](https://github.com/DysonParra/almacen-sql-back-project)  
-  [appointments](https://github.com/DysonParra/appointments-sql-back-project)  
-  [autopistas](https://github.com/DysonParra/autopistas-sql-back-project)  
-  [farmacias](https://github.com/DysonParra/farmacias-sql-back-project)  
-  [minas](https://github.com/DysonParra/minas-sql-back-project)  
-  [restaurant](https://github.com/DysonParra/restaurant-sql-back-project)  
-  [veterinaria](https://github.com/DysonParra/veterinaria-sql-back-project)  
-  [vias](https://github.com/DysonParra/vias-sql-back-project)  
+  [almacen](https://github.com/DysonParra/almacen-back-mysql-java-project)  
+  [appointments](https://github.com/DysonParra/appointments-back-mysql-java-project)  
+  [autopistas](https://github.com/DysonParra/autopistas-back-mysql-java-project)  
+  [farmacias](https://github.com/DysonParra/farmacias-back-mysql-java-project)  
+  [minas](https://github.com/DysonParra/minas-back-mysql-java-project)  
+  [restaurant](https://github.com/DysonParra/restaurant-back-mysql-java-project)  
+  [veterinaria](https://github.com/DysonParra/veterinaria-back-mysql-java-project)  
+  [vias](https://github.com/DysonParra/vias-back-mysql-java-project)  
   
     
   - Flag processors:  
