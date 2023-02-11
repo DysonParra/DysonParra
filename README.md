@@ -26,7 +26,7 @@ I'm from Colombia and i'm a programmer.
 - C# (source code, ASP.Net)
 - Java (1.8, gradle, maven, Spring, Eureka, Hibernate)
 - Angular (Typescript, CSS, Html, javascript, Postman)
-- Sql (Mariadb, Mysql)
+- Sql (Mariadb, Mysql, Sql server)
 - Android Studio (With java)
 - Windows scripts (bat)
 - Linux scripts (sh)
