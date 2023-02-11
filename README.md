@@ -9,7 +9,7 @@ Hello, my name is Dyson Parra
 I'm from Colombia and i'm a programmer.  
 
 - 🔭 I’m looking for a job
-- 🌱 I’m currently learning english and Sql server
+- 🌱 I’m currently learning english and c++
 - 📍  I'm from Medellín, Antioquia (Colombia)  
 - 📫 How to reach me: dysontilano@gmail.com  
 <!-- 
@@ -23,7 +23,7 @@ I'm from Colombia and i'm a programmer.
 
 ### Skills
 - C (source code, macros, Makefile)
-- C# (source code)
+- C# (source code, ASP.Net)
 - Java (1.8, gradle, maven, Spring, Eureka, Hibernate)
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql)
@@ -46,6 +46,16 @@ I'm from Colombia and i'm a programmer.
   [veterinaria](https://github.com/DysonParra/veterinaria-back-mysql-java-project)  
   [vias](https://github.com/DysonParra/vias-back-mysql-java-project)  
   
+  - Examples of connection to a database and CRUD services using ASP.NET and entity framework.  
+    Create database script (sql server) also included.  
+  [Almacen](https://github.com/DysonParra/almacen-back-front-sql-server-cs-project)  
+  [Appointments](https://github.com/DysonParra/appointments-back-front-sql-server-cs-project)  
+  [Autopistas](https://github.com/DysonParra/autopistas-back-front-sql-server-cs-project)  
+  [Farmacias](https://github.com/DysonParra/farmacias-back-front-sql-server-cs-project)  
+  [Minas](https://github.com/DysonParra/minas-back-front-sql-server-cs-project)  
+  [Restaurant](https://github.com/DysonParra/restaurant-back-front-sql-server-cs-project)  
+  [Veterinaria](https://github.com/DysonParra/veterinaria-back-front-sql-server-cs-project)  
+  [Vias](https://github.com/DysonParra/vias-back-front-sql-server-cs-project)  
     
   - Flag processors:  
   Cli lib that receive an undetermined number of arguments, analyze if are correctly formed and if yes parse it into objects (or structs) or else print the specific error in console.  
