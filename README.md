@@ -32,7 +32,7 @@ I'm from Colombia and i'm a programmer.
 - Use of Regex (Perl cli, sed cli, vs code)
 - Snowflake data cloud
 - Databricks
-- AWS (Sam cli, S3, layer)
+- AWS (Sam cli, S3, lambda, layer)
 - Matillon Dev
 - Redshift
 - Domo
