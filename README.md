@@ -24,13 +24,20 @@ I'm from Colombia and i'm a programmer.
 ### Skills
 - C (source code, macros, Makefile)
 - C# (source code, ASP.Net)
-- Java (1.8, gradle, maven, Spring, Eureka, Hibernate)
+- Java (1.8, 11, gradle, maven, Spring, Spring boot, Eureka, Hibernate, Jira),
+- Python (Source code, pandas, pyspark)
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql, Sql server)
 - Android Studio (With java)
+- Use of Regex (Perl cli, sed cli, vs code)
+- Snowflake data cloud
+- Databricks
+- AWS (Sam cli, S3, layer)
+- Matillon Dev
+- Redshift
+- Domo
 - Windows scripts (bat)
 - Linux scripts (sh)
-- Use of Regex (Perl cli, sed cli, vs code)
 
 <details>
   <summary>Relevant projects</summary>
