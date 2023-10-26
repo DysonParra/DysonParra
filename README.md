@@ -8,12 +8,12 @@ printf("%s\n", "Dyson Parra");
 Hello, my name is Dyson Parra  
 I'm from Colombia and i'm a programmer.  
 
-- 🔭 I’m looking for a job
-- 🌱 I’m currently learning english and c++
+- 🌱 I’m currently learning c++
 - 📍  I'm from Medellín, Antioquia (Colombia)  
 - 📫 How to reach me: dysontilano@gmail.com  
 <!-- 
 ### Hi there 👋
+- 🔭 I’m looking for a job
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
@@ -24,7 +24,7 @@ I'm from Colombia and i'm a programmer.
 ### Skills
 - C (source code, macros, Makefile)
 - C# (source code, ASP.Net)
-- Java (1.8, 11, gradle, maven, Spring, Spring boot, Eureka, Hibernate, Sonatype),
+- Java (1.8, 11, gradle, maven, Spring, Spring boot, Eureka, Hibernate, Sonatype, Selenium)
 - Python (Source code, pandas, pyspark)
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql, Sql server)
