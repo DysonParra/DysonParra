@@ -75,9 +75,9 @@ I'm from Colombia and i'm a programmer.
     Example:  --useDefault  --notUseIncognito  --generateLogFile  --preserveTempFiles  
 
     For use the library you need to specify in source code a set of flags defined as required, other defined as optionals and other defined as default. More specific how to use in the projects.  
-    [c](https://github.com/DysonParra/lib-flag-processor-c)  
-    [c#](https://github.com/DysonParra/lib-flag-processor-cs)  
-    [java](https://github.com/DysonParra/lib-flag-processor-java)  
-    [python](https://github.com/DysonParra/lib-flag-processor-py)  
+    [c](https://github.com/DysonParra/lib-cli-flag-processor-c)  
+    [c#](https://github.com/DysonParra/lib-cli-flag-processor-cs)  
+    [java](https://github.com/DysonParra/lib-cli-flag-processor-java)  
+    [python](https://github.com/DysonParra/lib-cli-flag-processor-py)  
   
 </details>
