@@ -3,7 +3,7 @@
 ```java
 System.out.print("Hello, "); 
 console.log('my name is ');  
-printf("%s\n", "Dyson Parra");  
+printf("%s\n", "Dyson Parra");
 ```
 Hello, my name is Dyson Parra  
 I'm from Colombia and i'm a programmer.  
