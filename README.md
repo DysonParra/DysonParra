@@ -104,7 +104,7 @@ I'm from Colombia and i'm a programmer.
           Observe that at the end of the repository name the three languages used are specified, instead of if the repo were an app, and that the apps
           included inside of the repo (back and front) keep the same pattern that if they were an independient repo.
 
-        - If the case is the same that the previos, but after considering is not convenient to has the code of frontend and backend in the same repo,
+        - If the case is the same that the previos, but after considering is not convenient to have the code of frontend and backend in the same repo,
           but if they are sepparated as independient repos could be hard to known with these names that they belong to the same project, in this case
           are usefull the module naming, so at start of the the repo add the indicative that is a module of the repo (proj-mod-) next the project name
           (veterinary), keep the rest of the name and include the backend and frontend as submodules of the full project, so the result is:
