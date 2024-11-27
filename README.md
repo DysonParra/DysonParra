@@ -41,8 +41,10 @@ I'm from Colombia and i'm a programmer.
 - Windows scripts (bat)
 - Linux scripts (sh)
 
+### Repository naming
+
 <details>
-  <summary>Repository naming</summary>
+  <summary>details</summary>
   
   The repositories are not named randomly, their names specify information about its following the patterns:
   - Language:  
@@ -139,8 +141,10 @@ I'm from Colombia and i'm a programmer.
       That is identified only with the name of the repository.
 </details>
 
+### Relevant projects
+
 <details>
-  <summary>Relevant projects</summary>
+  <summary>details</summary>
   
   - Examples of connection to a database and CRUD services using spring and hibernate.  
     Create database script (mysql) and postman tests file also included.  
