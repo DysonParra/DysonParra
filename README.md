@@ -99,7 +99,7 @@ I'm from Colombia and i'm a programmer.
           ├── frontend  
           │   ├── app-web-veterinary-angular  
           ├── sql  
-          │   ├── mysql_database_veterinay_create.sql  
+          │   ├── mysql_database_veterinary_create.sql  
    
           Observe that at the end of the repository name the three languages used are specified, instead of if the repo were an app, and that the apps
           included inside of the repo (back and front) keep the same pattern that if they were an independient repo.
@@ -115,7 +115,7 @@ I'm from Colombia and i'm a programmer.
           ├── frontend  
           │   ├── proj-mod-veterinary-app-web-veterinary-angular (Submodule)  
           ├── sql  
-          │   ├── mysql_database_veterinay_create.sql  
+          │   ├── mysql_database_veterinary_create.sql  
 
   
       If this git account contains various additional repos for example all the repos are:  
