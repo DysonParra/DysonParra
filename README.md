@@ -130,7 +130,7 @@ I'm from Colombia and i'm a programmer.
 
       Is easy to identify that:  
       * There are four app (two apps and two libs).
-      * The apps are written in android studio (mobile) and java (cli), and the libraries are written in c (cli) and python (cli).
+      * The apps are written in android studio (mobile) and java (gui), and the libraries are written in c (cli) and python (cli).
       * There are four projects (two full projects and two modules of a full project).  
       * The project 'pharmaciy' has not submodules, so all the apps source code or info are inside the same repo.
       * The project 'veterinary' has a complete project and inside two submodules that are as independient repositories.
