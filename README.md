@@ -24,7 +24,7 @@ I'm from Colombia and i'm a programmer.
 ### Skills
 - C (source code, macros, Makefile)
 - C# (source code, ASP.Net)
-- Java (1.8, 11, gradle, maven, Spring, Spring boot, Eureka, Hibernate, Sonatype, Selenium)
+- Java (1.8, 11, 17, gradle, maven, Spring, Spring boot, Eureka, Hibernate, Sonatype, Selenium)
 - Python (Source code, pandas, pyspark)
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql, Sql server, Postgress)
@@ -82,7 +82,7 @@ I'm from Colombia and i'm a programmer.
         - Type of project:  
         There are two types of projects, full or module:
           * Full project (All):  
-            If the next word of the type of repo is '-all', so the repo starts with 'proj-all-', the repository contains varios apps or apps and info inside of them,
+            If the next word of the type of repo is '-all', so the repo starts with 'proj-all-', the repository contains various apps or apps and info inside of them,
             and the apps inside could be there with the full code or as submodule.
           * Module project (mod):
             If the next word of the type of repo is '-mod', so the repo starts with 'proj-mod-', the repository contains an application that is part of a project,
