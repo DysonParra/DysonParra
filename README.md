@@ -29,11 +29,12 @@ I'm from Colombia and i'm a programmer.
 - Angular (Typescript, CSS, Html, javascript, Postman)
 - Sql (Mariadb, Mysql, Sql server, Postgress)
 - Android Studio (With java)
+- Use of generics (Java, Typescript, Python)
 - Use of Regex (Perl cli, sed cli, vs code)
-- Snowflake data cloud
-- Databricks
 - AWS (Sam cli, S3, lambda, layer, Kms)
 - Azure functions
+- Snowflake data cloud
+- Databricks
 - Matillon Dev
 - Redshift
 - Domo
