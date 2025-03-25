@@ -147,16 +147,16 @@ I'm from Colombia and i'm a programmer.
 <details>
   <summary>details</summary>
   
-  - Examples of connection to a database and CRUD services using spring and hibernate.  
+  - Examples of connection to a database and CRUD services using spring and hibernate for backend and angular for frontend.  
     Create database script (mysql) and postman tests file also included.  
-  [almacen](https://github.com/DysonParra/proj-all-almacen-back-mysql-java)  
-  [appointments](https://github.com/DysonParra/proj-all-appointments-back-mysql-java)  
-  [autopistas](https://github.com/DysonParra/proj-all-autopistas-back-mysql-java)  
-  [farmacias](https://github.com/DysonParra/proj-all-farmacias-back-mysql-java)  
-  [minas](https://github.com/DysonParra/proj-all-minas-back-mysql-java)  
-  [restaurant](https://github.com/DysonParra/proj-all-restaurant-back-mysql-java)  
-  [veterinaria](https://github.com/DysonParra/proj-all-veterinaria-back-mysql-java)  
-  [vias](https://github.com/DysonParra/proj-all-vias-back-mysql-java)  
+  [almacen](https://github.com/DysonParra/proj-all-almacen-back-front-mysql-java-angular)  
+  [appointments](https://github.com/DysonParra/proj-all-appointments-back-front-mysql-java-angular)  
+  [autopistas](https://github.com/DysonParra/proj-all-autopistas-back-front-mysql-java-angular)  
+  [farmacias](https://github.com/DysonParra/proj-all-farmacias-back-front-mysql-java-angular)  
+  [minas](https://github.com/DysonParra/proj-all-minas-back-front-mysql-java-angular)  
+  [restaurant](https://github.com/DysonParra/proj-all-restaurant-back-front-mysql-java-angular)  
+  [veterinaria](https://github.com/DysonParra/proj-all-veterinaria-back-front-mysql-java-angular)  
+  [vias](https://github.com/DysonParra/proj-all-vias-back-front-mysql-java-angular)  
   
   - Examples of connection to a database and CRUD services using ASP.NET and entity framework.  
     Create database script (sql server) also included.  
